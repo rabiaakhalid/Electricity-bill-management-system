@@ -1,0 +1,17 @@
+------Electricity Bill Management System---------
+this project focuses on managing electricity bill. Works for both employees and customers with different interfaces for each.
+
+Features : customer management, billing, paid status, late fee, employee and customer logins.
+
+How to compile and run:
+gcc main.c customer.c billing.c input.c -o billsystem
+.\billsystem
+
+EMPLOYEE PASSWORD:
+admin123
+
+team members:
+Rabia Khalid (cs-006)
+Faseeha Siddiqui (cs-016)
+Alishba (cs-019)
+Sualeha Ahmed (cs-002)
